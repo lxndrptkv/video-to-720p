@@ -1,6 +1,4 @@
 #include "imports.h"
-using namespace std;
-namespace fs = filesystem;
 
 int main(int argc, char* argv[]) {
     // Check if file is dragged
